@@ -39,6 +39,8 @@ console.log(`Estimated tax(10%): $${rounded}`);
 const totalPrice = itemsCal + totalShipping + totalBeforeText + rounded;
 console.log(`Order total: $${totalPrice}`);
 
+//THESE IS ME
+
 // basketball = (1*2095) 
-// tShirt = (1*799);
+// tShirt = (1*799); 
 
