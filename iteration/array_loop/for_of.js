@@ -13,7 +13,7 @@ for (const greet of greetings) {
   console.log(`each char is ${greet}`);
 }
 
-// Maps 
+// Maps => map don't contain duplicate key
 
 const map = new Map();
 map.set('IN', "India");
